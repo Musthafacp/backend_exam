@@ -1,0 +1,12 @@
+ul {
+  padding: 20px;
+  list-style: none;
+  display: grid;
+  gap: 20px;
+}
+
+li {
+  background-color: rgb(184, 184, 184);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding: 10px;
+}
